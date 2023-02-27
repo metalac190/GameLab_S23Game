@@ -12,7 +12,17 @@ Available to play here: [Release Build]()
 
 Concept Art
 
-![Concept Art](./docs/Concept_ThroughKeyhole.png)
+<table>
+    <tr>
+        <td witdh="50%"> <img src='./docs/Concept_Cellar.png'> </td>
+        <td witdh="50%"> <img src='./docs/Concept_ThroughKeyhole.png'> </td>
+    </tr>
+    <tr>
+        <td witdh="50%"> <img src='./docs/Concept_Squeeze.png'> </td>
+    </tr>
+</table>
+
+<!-- ![Concept Art](./docs/Concept_ThroughKeyhole.png) -->
 
 ## The Team
 
