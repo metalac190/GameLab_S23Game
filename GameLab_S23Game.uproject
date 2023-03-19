@@ -181,6 +181,10 @@
 		{
 			"Name": "AlembicImporter",
 			"Enabled": false
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	]
 }
