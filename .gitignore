@@ -75,3 +75,10 @@ DerivedDataCache/*
 
 # Ignore HoloLens info
 Platforms/HoloLens
+Content/Art/03_Greenhouse/Hedge/M_Hedge.uasset
+
+Content/Art/03_Greenhouse/Hedge/M_leaveMaster.uasset
+
+Content/Art/03_Greenhouse/Hedge/MI_Hedge.uasset
+
+Content/Art/03_Greenhouse/Hedge/MI_leave01.uasset
