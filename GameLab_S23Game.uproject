@@ -63,10 +63,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Paper2D",
-			"Enabled": false
-		},
-		{
 			"Name": "OnlineSubsystemIOS",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
